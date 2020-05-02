@@ -11,10 +11,8 @@
 # App platform binaries and built files
 /platforms
 
-# Dependency directories
-/node_modules
-
 # Optional to ignore plugin Git clones
-#/plugins
+/plugins
+/node_modules
 
 # End of https://www.gitignore.io/api/cordova
