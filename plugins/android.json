@@ -9,6 +9,12 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "org.stanycruz.garcomapp"
+    },
+    "cordova-plugin-cleartext": {
+      "PACKAGE_NAME": "org.stanycruz.garcomapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "org.stanycruz.garcomapp"
     }
   },
   "dependent_plugins": {}
